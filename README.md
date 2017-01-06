@@ -1,1 +1,1 @@
-# hermet-proxy
+# hermet-predicates
